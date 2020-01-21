@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Ph.D. Bioinformatics
+  uni: Freie Universität Berlin
+  year: 2015 &mdash; 2020
+  summary: Image-based disease assessment of Rheumatoid Arthritis using Variational Autoencoder and Koopman Operators.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: M.sc. Bioinformatics
+  uni: Freie Universität Berlin
+  year: 2011 &mdash; 2014
+  summary: Classification of cancer cells and quantification of drug efficacy.
+
+- degree: B.sc. Bioinformatics
+  uni: Freie Universität Berlin
+  year: 2007 &mdash; 2011
+  summary: Survival prediction of metastatic colon cancer patients.
