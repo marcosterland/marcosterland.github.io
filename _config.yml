@@ -23,7 +23,7 @@ resume_contact_address:         "Berlin, Germany"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I am a Bioinformatician with a deep passion for solving data-centered problems.
+_resume_header_intro: "<p>Hi! I am a Bioinformatician with a deep passion for solving data-centered problems.
 I have worked as research assistant and just finished my PhD (thesis submitted, defense soon) at the Zuse Institute Berlin & Freie Universität Berlin.
 During this time I have worked mainly in interdisciplinary collaboration projects in an agile environment.</p>
 <p>Since 2013 I am working with large data-sets and data-driven methods such as Machine Learning.
@@ -42,13 +42,13 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
+resume_section_experience:      false
+resume_section_education:       false
 resume_section_projects:        false
 resume_section_skills:          false
 resume_section_recognition:     false
 resume_section_links:           false
-resume_section_associations:    true
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
