@@ -1,5 +1,13 @@
 # Jobs
-# VP of Global Communications
+
+- company: Bayer AG
+  position: Research Scientist
+  duration: April 2020 &mdash; today
+  summary: <ul class="resume-item-list">
+    <li>Researching in new Machine Learning approaches for Fluorescence Microscopy Images</li>
+    <li>Development of data-driven analysis pipelines for drug discovery.</li>
+    </ul>
+
 - company: Zuse Institute Berlin
   position: Research Assistant
   duration: Feb 2015 &mdash; Jun 2019
@@ -8,13 +16,4 @@
     <li>Unsupervised Learning and Interpretation of Latent Spaces.</li>
     <li>Stochastic modelling of cell migration with Markov State Models.</li>
     <li>Implementation of a web-based collaborative Data Management platform.</li>
-    </ul>
-
-# Director of Digital Stratgy
-- company: Bayer HealthCare Pharmaceuticals
-  position: Master Student
-  duration: Mar 2013 &mdash; May 2014
-  summary: <ul class="resume-item-list">
-    <li>Internship and master thesis in High-Content Analysis using different Machine Learning methods.</li>
-    <li>Development of data-driven analysis pipelines for drug discovery.</li>
     </ul>
